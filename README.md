@@ -55,7 +55,22 @@ b
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![307229421-e74202dc-3e2f-48db-8d2f-84dc9aa4cdeb](https://github.com/user-attachments/assets/f078b8d2-e868-4d15-aee8-637f592ef5ec)
+
+![307229486-a9682a0c-6b81-46e3-b071-2e4a3aa50a1d](https://github.com/user-attachments/assets/bf1a29cf-67d0-4338-aa1d-b931ff98cf5d)
+
+![307229553-7af1094c-e890-4a53-a684-00afb1f9b0f0](https://github.com/user-attachments/assets/9d45730f-f350-418c-a140-e57d291f1058)
+
+![307229614-1c580e33-464f-47ad-9eff-4851bf17a91a](https://github.com/user-attachments/assets/119c03e7-d18e-4825-a8ce-76c4602c5426)
+
+![307229663-a9411b7e-a555-48a3-952a-10b1e61726ae](https://github.com/user-attachments/assets/0f09e1d5-46c2-40af-8cec-0c9d163dd027)
+
+![307229756-91beb994-6872-4bf0-8adb-0d31dcee50e1](https://github.com/user-attachments/assets/f5186416-2030-4477-9574-b5cfdb2f63ca)
+
+![307229795-9d5fbbb4-70e3-4a8a-bffb-6b37bff77cbc](https://github.com/user-attachments/assets/c2e5a799-a0a7-4f64-b7f8-1034cf6548e4)
+
+![307229843-a21e6f27-be9e-4879-9afa-b52b0290271c](https://github.com/user-attachments/assets/77b8b30c-f32f-447c-9eb1-93838b9136a2)
+
 
 
 ## Result:
